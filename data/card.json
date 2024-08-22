@@ -1,1 +1,1 @@
-{"courses":[{"title":"Vuex","price":"23000","img":"https://v3.ru.vuejs.org/logo.png","id":"463898c7-a72f-45da-a673-6cc2720b2f9d","count":1}],"price":23000}
+{"courses":[{"title":"Vuex","price":"23000","img":"https://v3.ru.vuejs.org/logo.png","id":"463898c7-a72f-45da-a673-6cc2720b2f9d","count":1},{"title":"Angular","price":"25000","img":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png","id":"533c0866-c948-4f5a-803f-30f720cc2ba5","count":2}],"price":73000}
