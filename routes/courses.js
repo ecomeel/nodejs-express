@@ -8,7 +8,8 @@ router.get('/', async (req, res) => {
   console.log(courses)
   res.render('courses', {
     title: 'Курсы',
-    isCourses: true
+    isCourses: true,
+    courses
   })
 })
 

@@ -15,7 +15,7 @@ class Course {
     courses.push({
       title: this.title,
       price: this.price,
-      image: this.image,
+      img: this.img,
       id: this.id
     })
     return new Promise((resolve, reject) => {
